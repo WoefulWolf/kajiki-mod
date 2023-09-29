@@ -6,6 +6,12 @@
 カジキ ("kajiki") is a game modification to syncronize & visualize player positions across game worlds! 
 
 Built specifically for speedrun racing in mind.
+<p align="center">
+  <img src="https://i.imgur.com/pC9XGoO.png" width="75%" title="Haha a cool screenshot!">
+  <br>
+  Image by <a href="https://www.twitch.tv/jaynoo_" target="blank_">Jaynoo_</a>
+</p>
+<!-- ![HahaScreenshot](https://i.imgur.com/pC9XGoO.png) -->
 
 ## Features
 - 3D player rendering with depth-buffer.
